@@ -1,5 +1,5 @@
-"""Función relacionada con el análisis de los intentos de inicio de sesión. En función de la información
- que recibe, esta función calcula el porcentaje de intentos fallidos y devuelve un porcentaje.
+"""Función relacionada con el análisis de los intentos de inicio de sesión. Dependiendo de la información
+ que recibe, calcula el porcentaje de intentos fallidos y devuelve un porcentaje.
  El programa podría usarse para determinar si se debe bloquear o no a una cuenta"""
 
 

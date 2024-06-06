@@ -1,6 +1,6 @@
-"""Función relacionada con el análisis de los intentos de inicio de sesión. Dependiendo de la información
- que recibe, calcula el porcentaje de intentos fallidos y devuelve un porcentaje.
- El programa podría usarse para determinar si se debe bloquear o no a una cuenta"""
+"""Function related to the analysis of login attempts. Depending on the information
+ that it receives, calculates the percentage of failed attempts and returns a percentage.
+ The program could be used to determine whether or not to block an account"""
 
 
 def calcular_errores(intentos_totales, intentos_fallidos):
